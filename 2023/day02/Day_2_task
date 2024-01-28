@@ -1,3 +1,4 @@
-Check your present working directory.
-List all the files or directories including hidden files.
-Create a nested directory A/B/C/D/E
+Check your present working directory. --> ls -l
+List all the files or directories including hidden files. --> ls -la
+Create a nested directory A/B/C/D/E --> mkdir -p A/B/C/D/E
+ 
