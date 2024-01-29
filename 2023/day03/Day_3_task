@@ -8,4 +8,4 @@ To Show only top three fruits from the file. --> head -3 fruits.txt
 To Show only bottom three fruits from the file. --> tail -3 fruits.txt
 To create another file Colors.txt and to view the content. touch Colors.txt and then use cat command to view the content
 Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey. --> vi Colors.txt and add the content in insert mode.
-To find the difference between fruits.txt and Colors.txt file. diff fruits.txt Colors.txt
+To find the difference between fruits.txt and Colors.txt file. diff fruits.txt Colors.txt --> diff fruits.txt Colors.txt
